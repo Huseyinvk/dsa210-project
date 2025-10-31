@@ -1,15 +1,15 @@
 # EatingHabitsAndSleepQuality_dsa210-project
 
-The Impact of Eating Habits on Sleep Quality
+## The Impact of Eating Habits on Sleep Quality
 
-Motivation
+### Motivation
 
 Two of the most important factors that determine our daily well-being are eating habits and sleep.
 Unbalanced or unhealthy eating habits can negatively affect sleep duration, deep sleep ratio, and sleep latency.
 This project aims to analyze how healthy eating habits influence sleep quality through data-driven methods.
 The goal is to provide nutrition-based recommendations to help individuals achieve better sleep quality.
 
-Objectives
+### Objectives
 
 -Examine the relationship between healthy eating habits and sleep indicators such as total sleep duration, sleep latency, and sleep efficiency.
 
@@ -17,7 +17,7 @@ Objectives
 
 -Analyze how meal timing (e.g., eating late at night) impacts sleep patterns.
 
-Data Sources
+### Data Sources
 
 -Daily diet logs (e.g., total calories, macronutrient ratios such as protein, carbs, and fat)
 
