@@ -83,7 +83,7 @@ Future work could integrate longitudinal data to observe changes in sleep patter
 Expanding the dataset to include different age groups or cultural dietary habits could also provide more generalizable insights.
 
 ### Limitations and Future Work
--The dataset may rely on self-reported information, which can introduce bias or inaccuracies.
--Other factors such as stress, mental health, and genetic predisposition may also influence sleep but are not directly included in this phase.
--Future work could integrate longitudinal data to observe changes in sleep patterns over time and use machine learning models to predict sleep quality based on daily diet logs.
--Expanding the dataset to include different age groups or cultural dietary habits could also provide more generalizable insights.
+- The dataset may rely on self-reported information, which can introduce bias or inaccuracies.
+- Other factors such as stress, mental health, and genetic predisposition may also influence sleep but are not directly included in this phase.
+- Future work could integrate longitudinal data to observe changes in sleep patterns over time and use machine learning models to predict sleep quality based on daily diet logs.
+- Expanding the dataset to include different age groups or cultural dietary habits could also provide more generalizable insights.
