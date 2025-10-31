@@ -1,4 +1,4 @@
-# NutritionImpact_dsa210-project
+# EatingHabitsAndSleepQuality_dsa210-project
 
 The Impact of Eating Habits on Sleep Quality
 
