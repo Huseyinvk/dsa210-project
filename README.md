@@ -32,7 +32,7 @@ Additional variables: caffeine intake (cups per day), water consumption (liters 
 ### Methodology
 
 The project will follow a structured, data-driven analysis process:
-*Data Collection and Cleaning:* 
+#### Data Collection and Cleaning: 
 - Gather nutrition and sleep data from participants or available datasets. Handle missing or inconsistent entries.
 #### Data Categorization: 
 - Classify individuals into healthy and unhealthy eating groups based on nutrient balance, processed food intake, and caloric ratios.
