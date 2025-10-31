@@ -27,7 +27,8 @@ Explore how caffeine and hydration levels interact with diet quality to influenc
 To conduct this project, multiple data types will be collected and analyzed to capture both dietary habits and sleep quality indicators. The data will include quantitative nutrition metrics, sleep tracking information, and relevant lifestyle variables.
 #### 1. Daily Diet Logs
 Data on participants’ daily food intake will be collected to assess the quality of their eating habits.
-Key variables:
+
+*Key variables:*
 - Total daily calorie intake (kcal)
 - Macronutrient ratios: percentage of protein, carbohydrates, and fat
 - Micronutrient information: fiber, sugar, and saturated fat levels
@@ -35,20 +36,23 @@ Key variables:
 - Meal timing: timestamps of main meals and snacks
 #### 2. Sleep Tracking Data
 Sleep-related variables will be gathered through wearable devices (e.g., Fitbit, Apple Watch) or sleep-monitoring mobile apps.
-Key variables:
+
+*Key variables:*
 - Total sleep duration (hours)
 - Sleep efficiency (% of time spent asleep while in bed)
 - Deep sleep percentage (proportion of deep sleep stages)
 - Sleep onset latency (minutes it takes to fall asleep)
 #### 3. Self-Reported Surveys
 Participants will also provide subjective assessments of their nutrition and sleep experience through questionnaires.
+
 *Key variables:*
 - Perceived sleep quality (on a 1–10 scale)
 - Daily mood and stress levels
 - Diet adherence and perceived healthiness
 #### 4. Additional Lifestyle Variables
 Since factors beyond diet can affect sleep, additional variables will be collected to control for external influences.
-Key variables:
+
+*Key variables:*
 - Caffeine intake (cups of coffee or tea per day)
 - Water consumption (liters per day)
 - Physical activity level (minutes of daily exercise)
@@ -77,3 +81,9 @@ The dataset may rely on self-reported information, which can introduce bias or i
 Other factors such as stress, mental health, and genetic predisposition may also influence sleep but are not directly included in this phase.
 Future work could integrate longitudinal data to observe changes in sleep patterns over time and use machine learning models to predict sleep quality based on daily diet logs.
 Expanding the dataset to include different age groups or cultural dietary habits could also provide more generalizable insights.
+
+### Limitations and Future Work
+-The dataset may rely on self-reported information, which can introduce bias or inaccuracies.
+-Other factors such as stress, mental health, and genetic predisposition may also influence sleep but are not directly included in this phase.
+-Future work could integrate longitudinal data to observe changes in sleep patterns over time and use machine learning models to predict sleep quality based on daily diet logs.
+-Expanding the dataset to include different age groups or cultural dietary habits could also provide more generalizable insights.
