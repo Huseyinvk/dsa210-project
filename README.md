@@ -32,16 +32,16 @@ Additional variables: caffeine intake (cups per day), water consumption (liters 
 ### Methodology
 
 The project will follow a structured, data-driven analysis process:
-#### Data Collection and Cleaning: 
-Gather nutrition and sleep data from participants or available datasets. Handle missing or inconsistent entries.
-#### Data Categorization: 
-Classify individuals into healthy and unhealthy eating groups based on nutrient balance, processed food intake, and caloric ratios.
-#### Exploratory Data Analysis (EDA): 
-Generate visualizations (histograms, scatter plots, correlation matrices) to explore trends between eating habits and sleep variables.
-#### Statistical Analysis: 
-Apply correlation tests, linear regression, or ANOVA to evaluate the significance of nutritional factors on sleep quality.
-#### Interpretation: 
-Identify which eating behaviors are most predictive of good or poor sleep outcomes and summarize findings in a clear, evidence-based format.
+*Data Collection and Cleaning:* 
+- Gather nutrition and sleep data from participants or available datasets. Handle missing or inconsistent entries.
+*Data Categorization:* 
+- Classify individuals into healthy and unhealthy eating groups based on nutrient balance, processed food intake, and caloric ratios.
+*Exploratory Data Analysis (EDA):* 
+- Generate visualizations (histograms, scatter plots, correlation matrices) to explore trends between eating habits and sleep variables.
+*Statistical Analysis:* 
+- Apply correlation tests, linear regression, or ANOVA to evaluate the significance of nutritional factors on sleep quality.
+*Interpretation:* 
+- Identify which eating behaviors are most predictive of good or poor sleep outcomes and summarize findings in a clear, evidence-based format.
 ### Expected Outcomes
 
 It is expected that individuals with healthier eating patterns, characterized by balanced macronutrient intake, lower sugar and processed food consumption, and consistent meal timing will show higher sleep efficiency, shorter sleep latency, and longer total sleep duration.
