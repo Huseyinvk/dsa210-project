@@ -24,10 +24,35 @@ Explore how caffeine and hydration levels interact with diet quality to influenc
 
 ### Data Sources
 
-Daily diet logs: containing total calorie intake, macronutrient distribution (protein, carbohydrates, fat), sugar, fiber, and saturated fat levels.
-Sleep tracking data: total sleep duration, deep sleep percentage, sleep onset latency, and sleep efficiency from wearable devices or apps.
-Self-reported data: mood, perceived sleep quality, and stress levels collected via surveys.
-Additional variables: caffeine intake (cups per day), water consumption (liters per day), and physical activity level (minutes of daily exercise).
+To conduct this project, multiple data types will be collected and analyzed to capture both dietary habits and sleep quality indicators. The data will include quantitative nutrition metrics, sleep tracking information, and relevant lifestyle variables.
+#### 1. Daily Diet Logs
+Data on participants’ daily food intake will be collected to assess the quality of their eating habits.
+Key variables:
+- Total daily calorie intake (kcal)
+- Macronutrient ratios: percentage of protein, carbohydrates, and fat
+- Micronutrient information: fiber, sugar, and saturated fat levels
+- Food classification: proportion of processed vs. natural foods
+- Meal timing: timestamps of main meals and snacks
+#### 2. Sleep Tracking Data
+Sleep-related variables will be gathered through wearable devices (e.g., Fitbit, Apple Watch) or sleep-monitoring mobile apps.
+Key variables:
+- Total sleep duration (hours)
+- Sleep efficiency (% of time spent asleep while in bed)
+- Deep sleep percentage (proportion of deep sleep stages)
+- Sleep onset latency (minutes it takes to fall asleep)
+#### 3. Self-Reported Surveys
+Participants will also provide subjective assessments of their nutrition and sleep experience through questionnaires.
+*Key variables:*
+- Perceived sleep quality (on a 1–10 scale)
+- Daily mood and stress levels
+- Diet adherence and perceived healthiness
+#### 4. Additional Lifestyle Variables
+Since factors beyond diet can affect sleep, additional variables will be collected to control for external influences.
+Key variables:
+- Caffeine intake (cups of coffee or tea per day)
+- Water consumption (liters per day)
+- Physical activity level (minutes of daily exercise)
+- Screen time before bed (optional variable for advanced analysis)
 
 ### Methodology
 
