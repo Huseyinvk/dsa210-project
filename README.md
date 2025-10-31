@@ -11,14 +11,18 @@ The goal is to provide nutrition-based recommendations to help individuals achie
 
 Objectives
 
-Examine the relationship between healthy eating habits and sleep indicators such as total sleep duration, sleep latency, and sleep efficiency.
+-Examine the relationship between healthy eating habits and sleep indicators such as total sleep duration, sleep latency, and sleep efficiency.
 
-Investigate the effects of sugary, fatty, or processed foods on sleep quality.
+-Investigate the effects of sugary, fatty, or processed foods on sleep quality.
 
-Analyze how meal timing (e.g., eating late at night) impacts sleep patterns.
+-Analyze how meal timing (e.g., eating late at night) impacts sleep patterns.
 
 Data Sources
+
 -Daily diet logs (e.g., total calories, macronutrient ratios such as protein, carbs, and fat)
+
 -Sleep tracking data (e.g., total sleep time, deep sleep percentage, sleep onset latency)
+
 -Self-reported surveys or wearable device data 
+
 -Additional variables: caffeine intake, water consumption, physical activity level
