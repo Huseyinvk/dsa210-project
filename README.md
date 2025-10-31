@@ -34,13 +34,13 @@ Additional variables: caffeine intake (cups per day), water consumption (liters 
 The project will follow a structured, data-driven analysis process:
 *Data Collection and Cleaning:* 
 - Gather nutrition and sleep data from participants or available datasets. Handle missing or inconsistent entries.
-*Data Categorization:* 
+#### Data Categorization: 
 - Classify individuals into healthy and unhealthy eating groups based on nutrient balance, processed food intake, and caloric ratios.
-*Exploratory Data Analysis (EDA):* 
+#### Exploratory Data Analysis (EDA):
 - Generate visualizations (histograms, scatter plots, correlation matrices) to explore trends between eating habits and sleep variables.
-*Statistical Analysis:* 
+#### Statistical Analysis: 
 - Apply correlation tests, linear regression, or ANOVA to evaluate the significance of nutritional factors on sleep quality.
-*Interpretation:* 
+#### Interpretation:
 - Identify which eating behaviors are most predictive of good or poor sleep outcomes and summarize findings in a clear, evidence-based format.
 ### Expected Outcomes
 
