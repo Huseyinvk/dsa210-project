@@ -87,3 +87,54 @@ Expanding the dataset to include different age groups or cultural dietary habits
 - Other factors such as stress, mental health, and genetic predisposition may also influence sleep but are not directly included in this phase.
 - Future work could integrate longitudinal data to observe changes in sleep patterns over time and use machine learning models to predict sleep quality based on daily diet logs.
 - Expanding the dataset to include different age groups or cultural dietary habits could also provide more generalizable insights.
+
+- ## Findings
+
+- This project includes self-reported data of daily eating habits and sleep quality collected from 13 participants.
+
+- The dataset includes the following key variables:
+  - Healthy Eating Score (1–10)
+  - Sleep Quality Score (1–10)
+  - Sleep Duration
+  - Lifestyle metrics (exercise, hydration, screen time, caffeine, calories)
+
+- The data was cleaned, categorized, and transformed into two main groups:
+  - **Healthy Diet vs Unhealthy Diet**
+  - **Good Sleep Quality vs Poor Sleep Quality**
+
+- Exploratory Data Analysis (EDA) was conducted through multiple visualizations:
+  - Scatter plot
+  - Boxplot
+  - Histogram
+
+- Hypothesis testing was performed using Pearson correlation coefficients and p-values to evaluate statistical significance.
+
+---
+
+### **Diet Category vs Sleep Quality**
+- **Pearson r = −0.14**, **p = 0.637**
+  → No statistically significant correlation between diet category and sleep quality.
+
+### **Healthy vs Unhealthy Diet (t-test)**
+- **t-statistic = −0.48**, **p = 0.637**
+  → No statistically significant difference in average sleep score between the two groups.
+
+---
+
+### Interpretation
+
+- We fail to reject the null hypothesis.
+- Based on our sample (n = 13), there is **no statistically significant relationship** between diet category and sleep quality.
+- Possible reasons:
+  - Limited sample size
+  - Self-reported data may include bias
+  - External lifestyle factors (stress, exercise, caffeine)
+
+---
+
+### Key Takeaways
+
+- Despite expectations, healthier eating habits did **not** produce higher sleep quality in this dataset.
+- Statistical analysis shows no strong correlation between the two variables.
+- The results demonstrate the importance of objective analysis and hypothesis testing in real-world data.
+
