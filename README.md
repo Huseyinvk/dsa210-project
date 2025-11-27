@@ -88,6 +88,18 @@ Expanding the dataset to include different age groups or cultural dietary habits
 - Future work could integrate longitudinal data to observe changes in sleep patterns over time and use machine learning models to predict sleep quality based on daily diet logs.
 - Expanding the dataset to include different age groups or cultural dietary habits could also provide more generalizable insights.
 
+## Hypothesis Testing
+
+| No. | Null Hypothesis (H₀) | Alternative (H₁) | Statistical Test & α |
+|-----|----------------------|------------------|----------------------|
+| 1 | There is no statistically significant relationship between healthy eating habits and sleep quality. | Healthy eating habits improve sleep quality. | Pearson correlation (α = 0.05) |
+| 2 | There is no difference in sleep quality between the healthy and unhealthy diet groups. | Sleep quality differs significantly between the two diet groups. | Two-sample t-test (Healthy vs Unhealthy) |
+| 3 | Sleep duration is not associated with sleep quality. | Greater sleep duration improves sleep quality. | Pearson correlation (α = 0.05) |
+| 4 | Caffeine intake does not affect sleep quality. | Higher caffeine consumption lowers sleep quality. | Pearson/Spearman correlation |
+
+> If p-value > 0.05, the null hypothesis (H₀) could not be rejected.
+
+
 ### Findings
 
 - This project includes self-reported data of daily eating habits and sleep quality collected from 26 participants.
