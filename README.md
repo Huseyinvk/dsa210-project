@@ -90,7 +90,7 @@ Expanding the dataset to include different age groups or cultural dietary habits
 
 ### Findings
 
-- This project includes self-reported data of daily eating habits and sleep quality collected from 13 participants.
+- This project includes self-reported data of daily eating habits and sleep quality collected from 26 participants.
 
 - The dataset includes the following key variables:
   - Healthy Eating Score (1–10)
@@ -122,7 +122,7 @@ Expanding the dataset to include different age groups or cultural dietary habits
 ### Interpretation
 
 - We fail to reject the null hypothesis.
-- Based on our sample (n = 13), there is **no statistically significant relationship** between diet category and sleep quality.
+- Based on our sample (n = 26), there is **no statistically significant relationship** between diet category and sleep quality.
 - Possible reasons:
   - Limited sample size
   - Self-reported data may include bias
@@ -134,4 +134,57 @@ Expanding the dataset to include different age groups or cultural dietary habits
 - Despite expectations, healthier eating habits did **not** produce higher sleep quality in this dataset.
 - Statistical analysis shows no strong correlation between the two variables.
 - The results demonstrate the importance of objective analysis and hypothesis testing in real-world data.
+
+## Visualizations Used
+
+### Scatter Plots
+
+**Healthy Diet vs Sleep Quality:**
+– Visualized the relationship between diet category (healthy vs unhealthy) and sleep quality scores.
+
+**Sleep Duration vs Sleep Quality:**
+– Investigated whether participants sleeping longer hours had better reported sleep quality.
+
+**Caffeine vs Sleep Quality:**
+– Explored whether caffeine intake level played a role in reducing sleep quality.
+
+
+### Histograms
+
+**Sleep Quality Distribution:**
+– Displayed how sleep scores (1–10) were distributed across all participants.
+
+**Diet Score Distribution:**
+– Showed the variation of healthy eating scores among participants.
+
+**Sleep Duration Distribution:**
+– Demonstrated how long participants tend to sleep on average.
+
+
+### Boxplots
+
+**Sleep Quality by Diet Category:**
+– Compared sleep quality between the healthy and unhealthy diet groups using a boxplot.
+
+**Sleep Duration by Diet Category:**
+– Examined the spread of sleep duration between the diet groups.
+
+
+### Correlation Heatmap
+
+**Correlation Matrix:**
+– Illustrated the statistical relationships between multiple variables including diet score, sleep quality, sleep duration, hydration, and caffeine intake.
+
+
+### Additional Visuals
+
+**Scatter Plot Trendline (optional):**
+– Showed general directional trends (positive/negative) in sleep quality based on diet categories.
+
+**Categorical Breakdown Chart:**
+– Displayed how many participants fell into each category:
+  - Healthy vs Unhealthy Diet
+  - Good vs Poor Sleep
+
+
 
