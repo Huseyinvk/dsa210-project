@@ -88,7 +88,7 @@ Expanding the dataset to include different age groups or cultural dietary habits
 - Future work could integrate longitudinal data to observe changes in sleep patterns over time and use machine learning models to predict sleep quality based on daily diet logs.
 - Expanding the dataset to include different age groups or cultural dietary habits could also provide more generalizable insights.
 
-- ## Findings
+### Findings
 
 - This project includes self-reported data of daily eating habits and sleep quality collected from 13 participants.
 
@@ -109,17 +109,15 @@ Expanding the dataset to include different age groups or cultural dietary habits
 
 - Hypothesis testing was performed using Pearson correlation coefficients and p-values to evaluate statistical significance.
 
----
 
-### **Diet Category vs Sleep Quality**
+#### **Diet Category vs Sleep Quality**
 - **Pearson r = −0.14**, **p = 0.637**
   → No statistically significant correlation between diet category and sleep quality.
 
-### **Healthy vs Unhealthy Diet (t-test)**
+#### **Healthy vs Unhealthy Diet (t-test)**
 - **t-statistic = −0.48**, **p = 0.637**
   → No statistically significant difference in average sleep score between the two groups.
 
----
 
 ### Interpretation
 
@@ -130,7 +128,6 @@ Expanding the dataset to include different age groups or cultural dietary habits
   - Self-reported data may include bias
   - External lifestyle factors (stress, exercise, caffeine)
 
----
 
 ### Key Takeaways
 
